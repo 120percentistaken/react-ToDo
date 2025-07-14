@@ -1,4 +1,9 @@
-# React + Vite
+
+# This is a guided reactjs. Basic course on how to understand reactjs just by doing a simple to-do list with local storage. 
+
+### Using useEffect and useState.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -16,5 +21,3 @@ If you are developing a production application, we recommend using TypeScript wi
 - FontAwesome CDN - https://cdnjs.com/libraries/font-awesome
 - FontAwesome Icons - https://www.fontawesome.com
 - FantaCSS - https://www.fantacss.smoljames.com
-
-# This is a guided React.JS Basic course on how to understand react.js just by doing a simple to-do list.
